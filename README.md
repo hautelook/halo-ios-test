@@ -12,7 +12,7 @@ Note: If for any reason you have problems getting it working, please feel free t
 
 Create a list of companies based on the data you get back from the mock endpoint that has been setup. Each cell in the list should contain a thumbnail, company name, and company summary. Use the url provided in the CompaniesViewController as your first request and you can grab the url for the next set of companies from the response and when the response no longer has a link to a "next page, that means there are no more companies.  The list should scroll smoothly until there are no more companies to show.
 
-Note:  The project is setup in Obj-C but if you would like to use Swift instead you can convert it.  Also, feel free to use any libraries you want for networking, image loading, etc.
+Note:  The project is setup in Obj-C but if you would like to use Swift instead you can convert it.
 
 ### Support
 
